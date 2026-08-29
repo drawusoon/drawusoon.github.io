@@ -141,12 +141,12 @@ button {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 22px;
+  gap: 26px;
 }
 
 .hero-socials a {
-  width: 18px;
-  height: 18px;
+  width: 24px;
+  height: 24px;
   color: #fff;
 }
 
