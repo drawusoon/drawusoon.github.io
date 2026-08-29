@@ -1,0 +1,12 @@
+{
+  "name": "drawusoon-portfolio",
+  "private": true,
+  "scripts": {
+    "images": "node scripts/process-images.js",
+    "images:watch": "node scripts/process-images.js --watch",
+    "start": "npx --yes serve -l 4180 ."
+  },
+  "dependencies": {
+    "sharp": "^0.35.4"
+  }
+}
